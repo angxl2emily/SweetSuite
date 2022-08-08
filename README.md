@@ -1,5 +1,5 @@
 # SweetSuite
-##Java program for splitting bills with roomates 
+## Java program for splitting bills with roomates 
 
 ## Purchase Class
 
