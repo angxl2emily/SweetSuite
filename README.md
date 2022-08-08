@@ -1,6 +1,8 @@
 # SweetSuite
 ## Java program for splitting bills with roomates 
 
+**Note:** Currently working on functionality for data storage by learning MySQL, so that a Suite's data and Student's data may be accessed again after reruning the program. Might also try to save each class' data in different txt files as a temporary solution.
+
 ## Purchase Class
 
 - Composed of:
